@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/Components/FeedbackOptions/FeedbackOptions.module.css"],"names":[],"mappings":"AAAA,+BACE,iBAAkB,CAClB,UACF","file":"main.0331aa20.chunk.css","sourcesContent":[".button {\r\n  margin-right: 15px;\r\n  width: 64px;\r\n}\r\n"]}
