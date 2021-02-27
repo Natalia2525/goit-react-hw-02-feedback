@@ -1,4 +1,11 @@
 .button {
   margin-right: 15px;
+
   width: 64px;
+  padding: 5px 10px;
+  background-color: rgb(184, 92, 80);
+  border: none;
+  border-radius: 5px;
+  box-shadow: 0px 0px 3px 0px black;
+  cursor: pointer;
 }

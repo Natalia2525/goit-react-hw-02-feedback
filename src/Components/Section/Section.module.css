@@ -1,0 +1,10 @@
+.section {
+  margin-bottom: 30px;
+  border: 2px solid maroon;
+  width: 350px;
+  padding: 15px;
+  background: linear-gradient(to left, #f8ab8d 0%, white, #f8ab8d);
+}
+.title {
+  margin: 0 0 10px 0;
+}
